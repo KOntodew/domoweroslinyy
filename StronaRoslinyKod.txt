@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Rośliny domowe</title>
+</head>
+
+<body>
+<h1 style="background-color:MediumSeaGreen; color:Gray;" > Rośliny domowe </h1>
+
+<center><h3 style="color:Green; font-size:200%; "><b>Rodzaj</b></h3></center>
+<center><p style="background-color:Green; font-family:courier; color: Pink; font-size:130%; " >Skrzydłokwiat</p></center>
+<center><img src="skrzy2.jpg" style="width:300px;height:300px;"></center>
+<p style="font-family:courier; font-size:130%;"> 
+<q>Skrzydłokwiat to wspaniały kwiat doniczkowy, który potrafi oczarować swym zjawiskowym, długim kwitnieniem</q>
+Skrzydłokwiat jest jedną z najbardziej popularnych roślin doniczkowych. Pasuje do wszystkich stylów wnętrz, zarówno nowoczesnych, jak i klasycznych. Zachwyca nieprzeciętnym pokrojem, elegancją, ciemnozielonymi lśniącymi liśćmi oraz dekoracyjnymi białymi kwiatami.</p>
+<p style="font-family:courier; font-size:130%;" > Skrzydłokwiat, inaczej zwany skrzydłolistem, jest wiecznie zieloną rośliną pochodzącą z lasów tropikalnych. W naturze jest częścią runa lasów równikowych, charakteryzującego się wysoką wilgotnością oraz zacienieniem.</p>
+<p style="font-family:courier; font-size:130%;" > Naukowcy opracowali listę roślin pokojowych, które efektywnie wpływają za stan powietrza w naszych domach. Oczyszczają je z trujących związków , niebezpiecznych dla naszego zdrowia. Ważne miejsce w tej grupie zajmuje właśnie skrzydłokwiat, który pochłania  benzen, formaldehyd, trichloroeten, toluen, ksylen oraz amoniak. Unoszące się z przedmiotów codziennego użytku substancje są ograniczane dzięki zawartym w glebie bakteriom 
+<a href="https://muratordom.pl/ogrod/rosliny/kwiaty-doniczkowe-skrzydlokwiat-warunki-uprawy-i-odmiany-skrzydlokwiatu-aa-HtqN-KYop-ehif.html">Więcej o skrzydłokwiacie.</a>
+</p>
+
+<center><h3 style="color: Green; font-size:200%; "><b>Stanowisko</b></h3></center>
+<center><img src="skrzy1.jfif" style="width:300px;height:300px;"></center>
+<p style="font-family:courier; font-size:130%;" > Aby roślina pięknie i zdrowo rosła, należy zadbać o odpowiednie stanowisko. Skrzydłokwiat preferuje:
+<ul style="font-family:courier; font-size:130%;" >
+  <li>Miejsca półcieniste.</li>
+  <li>Cieniste.</li>
+  <li>Źle radzi sobie na nasłonecznionych parapetach.</li>
+</ul>
+.</p>
+<p style="font-family:courier; font-size:130%;" > Preferuje równomierną temperaturę przez cały rok, wszelkie gwałtowne zmiany powodują zahamowanie wzrostu oraz osłabienie rośliny. Idealna temperatura to 20-23 stopnie. </p>
+<p style="font-family:courier; font-size:130%;" >Ponieważ ciepło i wysoka wilgotność powietrza są jej sprzymierzeńcami, warto ją umieścić w osłonce wypełnionej kruszywem ceramicznym, torfem lub zastosować podstawkę wypełnioną wodą.</p>
+<p style="font-family:courier; font-size:130%;" >Nie rozrasta się za bardzo, więc nie potrzebuje dużo przestrzeni wokół.
+<a href="https://home.morele.net/poradniki/skrzydlokwiat-pielegnacja-wymagania-podlewanie-najwazniejsze-zasady-i-najczesciej-popelniane-bledy-w-uprawie-skrzydlokwiatow/">Więcej o pielęgnacji</a>
+</p>
+
+<center><h3 style="color: Green; font-size:200%; " ><b>Pielęgnacja</b></h3></center>
+<p style="font-family:courier; font-size:130%;" > Roślinę należy solidnie podlewać, unikając jednak zalegania płynu, które mogłoby powodować gnicie korzeni. Stosujemy tylko odwapnioną, odstaną wodę, o temperaturze pokojowej. Zwiększamy jej ilość latem, podczas upalnych dni, zimą wystarczy niewielka ilości.</p>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Spathiphyllum_floribundum_2.JPG" style="width:300px;height:300px;"></center>
+<p style="font-family:courier; font-size:130%;" >  Każdej wiosny warto zastosować nawóz wieloskładnikowy, aby dostarczyć elementów niezbędnych do prawidłowego wzrostu. Nie należy przesadzać z ilością preparatu, ponieważ skrzydłokwiat jest wrażliwy na przenawożenie, a jego skutkiem mogą być brązowe plamy pojawiające się na liściach..</p>
+<p style="font-family:courier; font-size:130%; "> Jeśli donica okazuje się niewystarczająca, stosujemy wiosenne przesadzanie. Ziemia powinna być przepuszczalna i dobrej jakości, zakupiona w sklepie lub samodzielnie wykonana z mieszanki kompostu, piasku i odrobiny gliniastego podłoża. 
+<a href="https://youtu.be/kY1zUjtVII8">Zobacz jak to robić</a>
+</p>
+<p style="font-family:courier; font-size:130%;" >W skrócie: 
+<ol style="font-family:courier; font-size:130%;" >
+  <li>Podlewaj często, ale unikaj zalewania</li>
+  <li>Ustaw w oświetlonym, ale nienasłonecznionym miejscu </li>
+  <li>Używaj małej ilości odżywki w okresie wiosny</li>
+</ol>
+</p>
+
+</body>
+</html>
